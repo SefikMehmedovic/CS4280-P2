@@ -1,0 +1,10 @@
+Parser and Tree Builder
+Sefik Mehmedovic
+P2
+------------------------------------------------------------------------
+
+To compile project run 'make' and to remove all executables run 'make clean'
+
+To run project without a file ./frontEnd and keyboard input will appear
+
+To read from file use ./frontEnd < filename.fs18 
